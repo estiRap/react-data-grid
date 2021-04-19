@@ -13,7 +13,7 @@ const cellResizable = css`
     top: 0;
     right: 0;
     bottom: 0;
-    width: 10px;
+    width: 12px;
   }
 `;
 
